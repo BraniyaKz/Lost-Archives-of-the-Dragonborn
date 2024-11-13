@@ -1,0 +1,37 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Lost Archives of the Dragonborn",
+    "description": "Get lost, then found again in this complete overhaul of Skyrim Anniversary Edition!",
+    "author": "BraniyaKz",
+    "maintainers": [
+      "github/BraniyaKz"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      ""
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": true,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://github.com/wabbajack-tools/wabbajack/blob/main/Branding/PNGs/Logo_Dark_Transparent.png?raw=true",
+      "readme": "https://github.com/BraniyaKz/Lost-Archives-of-the-Dragonborn/blob/main/README.md",
+      "download": "",
+      "machineURL": "lost_archives\dragonborn",
+      "discordURL": ""
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "",
+      "Size": 0,
+      "NumberOfArchives": 0,
+      "SizeOfArchives": 0,
+      "NumberOfInstalledFiles": 0,
+      "SizeOfInstalledFiles": 0
+    },
+    "version": "0.0.1"
+  }
+]
